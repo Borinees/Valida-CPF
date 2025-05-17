@@ -43,3 +43,13 @@ label{
     border-radius: 5px;
     display: none;
 }
+
+.message.sucess{
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.message.erro{
+    background-color: #f8d7da;
+    color: #721d24;
+}
